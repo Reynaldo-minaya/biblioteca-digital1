@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "npx http-server .",
+  "dev": "npx live-server ."
+}
