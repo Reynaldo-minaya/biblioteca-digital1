@@ -1,0 +1,3 @@
+"scripts": {
+  "dev": "npx live-server ."
+}
