@@ -4,6 +4,7 @@
   "description": "Sistema básico de gestión de libros digitales",
   "main": "index.html",
   "scripts": {
+    "start": "npx http-server .",
     "dev": "npx live-server ."
   },
   "author": "Reynaldo Minaya",
