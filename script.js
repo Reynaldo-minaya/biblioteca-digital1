@@ -1,1 +1,3 @@
+renderCatalog();
+searchBooks();
 
