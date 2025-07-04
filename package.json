@@ -19,5 +19,12 @@
     "url": "https://github.com/Reynaldo-minaya/biblioteca-digital1/issues"
   },
   "homepage": "https://github.com/Reynaldo-minaya/biblioteca-digital1#readme",
+<<<<<<< HEAD
   "description": ""
+=======
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+>>>>>>> main
 }
